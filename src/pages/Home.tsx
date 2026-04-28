@@ -71,7 +71,7 @@ export default function Home() {
                   <div className="text-slate-600">Years Experience</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-blue-600 mb-2">50+</div>
+                  <div className="text-3xl font-bold text-blue-600 mb-2">1</div>
                   <div className="text-slate-600">Projects Completed</div>
                 </div>
               </div>
